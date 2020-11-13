@@ -1,0 +1,22 @@
+.reactableTable {
+  font-family: Karla, "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 16px;
+}
+
+.number {
+  font-family: "Fira Mono", Consolas, Monaco, monospace;
+  font-size: 16px;
+  line-height: 30px;
+  white-space: pre;
+}
+
+.title {
+  margin: 16px 0;
+  font-size: 16px;
+}
+
+.title h2 {
+  font-size: 16px;
+  font-weight: 600;
+}
+

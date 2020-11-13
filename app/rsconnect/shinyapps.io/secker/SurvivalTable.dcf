@@ -1,0 +1,10 @@
+name: SurvivalTable
+title:
+username:
+account: secker
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3226004
+bundleId: 3856242
+url: https://secker.shinyapps.io/SurvivalTable/
+when: 1605268779.23971
